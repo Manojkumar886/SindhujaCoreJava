@@ -9,6 +9,7 @@ public class Demovariables
 	{
 	   String StateName="Tamilnadu";//local variable
 		System.out.println("my statename is "+StateName);
+		
 		System.out.println("my aadharcard no is "+AadharCardNo);//Global Variable
 		
 	}
