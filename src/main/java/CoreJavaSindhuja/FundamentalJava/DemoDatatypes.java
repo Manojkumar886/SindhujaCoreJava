@@ -3,7 +3,7 @@ package CoreJavaSindhuja.FundamentalJava;
 public class DemoDatatypes 
 {
 	
-	public static void main(String[] args) 
+	public static void main(String[] args) //main method
 	{
 		int ninedigit=45678876;
 		long aftertendigit=9789355930l;
